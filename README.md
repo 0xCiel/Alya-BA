@@ -1,3 +1,5 @@
+PRESS INSERT TO OPEN MENU
+
 https://discord.gg/Y73BAvRhzg
 
 Features:
