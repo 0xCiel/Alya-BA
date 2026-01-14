@@ -1,16 +1,19 @@
-PRESS INSERT TO OPEN MENU
+https://discord.gg/9gW7MWsWnH
+INSERT TO OPEN MENU
 
-https://discord.gg/Y73BAvRhzg
-
-Features:
+## Features:
+### Player
 * God Mode
 * Instant Kill
-* Skip Dialogue
-* Dump Enemies
-* Global Speed
 * No Cost
-* Instant Win
+* Damage Multiplier
+* Heal Multiplier
 * Infinite Summon Duration
-* Stats Mods
+* Stat Mods
+### World
+* Instant Win
+* Skip Dialogue
+* Dumb Enemies
+* Global Speed
 
-<img width="823" height="466" alt="image" src="https://github.com/user-attachments/assets/c6530d01-c458-49dc-ac5f-ac06acf5ad1a" />
+<img width="801" height="458" alt="image" src="https://github.com/user-attachments/assets/0a3bda85-b106-47ed-a4ca-0934f0f94952" />
