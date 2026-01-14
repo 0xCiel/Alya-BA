@@ -12,8 +12,8 @@ INSERT TO OPEN MENU
 * Stat Mods
 ### World
 * Instant Win
-* Skip Dialogue
 * Dumb Enemies
+* Battle Speed
 * Global Speed
 
 <img width="801" height="458" alt="image" src="https://github.com/user-attachments/assets/0a3bda85-b106-47ed-a4ca-0934f0f94952" />
