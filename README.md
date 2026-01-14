@@ -16,4 +16,4 @@ INSERT TO OPEN MENU
 * Battle Speed
 * Global Speed
 
-<img width="801" height="458" alt="image" src="https://github.com/user-attachments/assets/0a3bda85-b106-47ed-a4ca-0934f0f94952" />
+Showcase: https://youtu.be/0243Wq4X0q8
