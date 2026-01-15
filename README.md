@@ -5,9 +5,10 @@
 # ALYA
 
 
-<a href="https://discord.gg/Y73BAvRhzg">
-  <img src="https://img.shields.io/discord/0?color=5865F2&label=Join%20our%20Discord&logo=discord&logoColor=white&style=for-the-badge"/>
+<a href="https://discord.gg/9gW7MWsWnH">
+  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 </a>
+
 
 </div>
 
