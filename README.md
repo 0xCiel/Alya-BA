@@ -15,5 +15,8 @@ INSERT TO OPEN MENU
 * Dumb Enemies
 * Battle Speed
 * Global Speed
+* Skip Dialogue
+### Visual
+* Camera FOV
 
 Showcase: https://youtu.be/0243Wq4X0q8
